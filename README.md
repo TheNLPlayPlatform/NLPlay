@@ -8,7 +8,7 @@ This repository contains the scripts and other resources it takes to reproduce t
 ## 1. THE NLPLAY PLATFORM
 The NLPlay platform enables the user to explore the semantic similarity between words as predicted by the neural network model, generate a word cloud, perform topic modeling, as well as sentiment analysis. 
 
-## 2. THE DAGW MODEL
+## 2. THE DAGW-MODEL
 A neural network model was trained on the largest existing Danish corpus, The Danish Gigaword Corpus (DAGW).
 
 ## PROOF OF CONCEPT 
