@@ -16,4 +16,4 @@ Click to watch the proof of concept video:
 [![Watch the video](https://github.com/sofieditmer/CulturalDataScienceExamProject2020/blob/main/Sk%C3%A6rmbillede%202020-12-03%20kl.%2011.39.22.png)](https://youtu.be/k36jzNu2fNI)
 
 ## LICENSE 
-[MIT](https://github.com/sofieditmer/CulturalDataScienceExamProject2020/blob/main/LICENSE.md)
+[MIT](https://github.com/TheNLPlayPlatform/NLPlay/blob/main/LICENSE)
