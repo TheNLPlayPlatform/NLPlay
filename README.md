@@ -25,7 +25,7 @@ The DAGW-model is a neural network model trained on the largest existing Danish 
 
 ## PROOF OF CONCEPT 
 Click to watch the proof of concept video:
-[![Watch the video](https://github.com/sofieditmer/CulturalDataScienceExamProject2020/blob/main/Sk%C3%A6rmbillede%202020-12-03%20kl.%2011.39.22.png)](https://www.youtube.com/watch?v=H15M2p28p9Y)
+[![Watch the video](https://github.com/sofieditmer/CulturalDataScienceExamProject2020/blob/main/NLPlay.png)](https://www.youtube.com/watch?v=H15M2p28p9Y)
 
 If you want to watch the video in English click here: 
 
