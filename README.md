@@ -1,5 +1,9 @@
 <p align="center" width="100%"><img width="33%" src="https://github.com/TheNLPlayPlatform/NLPlay/blob/main/NLPlayLogo.png"></p>
 
+
+NLPlay is online! https://sofieditmer.shinyapps.io/NLPlay/ 
+NB! The DAGW-model functionalities are not available online. This is something we plan to change.
+
 This repository contains the scripts and other resources it takes to reproduce the NLPlay Platform developed by Sofie Ditmer and Astrid Nørgaard Fonager. The main goal of this project was to contribute to the field of Danish Natural Language Processing (NLP) and enable Danish speakers wihtout preexisting programming experience to benefit from quantitative text-mining tools in their work with Danish texts. This was accomplished in two ways: 
 
 ##### 1. The NLPlay Platform: a web-based interactive Shiny application developed to provide the user with different text mining tools: topic modeling, sentiment analysis, and a word cloud generator.
