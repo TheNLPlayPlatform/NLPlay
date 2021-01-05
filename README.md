@@ -12,7 +12,7 @@ The NLPlay platform provides the user with multiple text mining tools. Within th
 The DAGW-model is a neural network model trained on the largest existing Danish corpus, The Danish Gigaword Corpus (DAGW), using the word2vec framework. 
 
 ## HOW TO REPRODUCE THE NLPLAY PLATFORM
-1. Download the DAGW-model here linklink
+1. Download the DAGW-model here: https://drive.google.com/uc?export=download&id=1eHTn4vrtjLq6CLDu3WHHVBqN0u6VBB03
 
 2. Download the NLPlay folder that contains a setup-script and the shiny application.
 
