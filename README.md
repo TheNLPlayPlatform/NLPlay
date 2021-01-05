@@ -6,7 +6,7 @@ This repository contains the scripts and other resources it takes to reproduce t
 ##### 2. The DAGW-model: a neural network model trained on the largest existing Danish corpus, The Danish Gigaword Corpus (DAGW), using the word2vec framework.
 
 ## THE NLPLAY PLATFORM
-The NLPlay platform provides the user with multiple text mining tools. Within the platform the user is able to explore the semantic similarity between words as predicted by the neural network model, generate a word cloud based on a self-chosen text, perform topic modeling on a collection of documents, and perform sentiment analysis on self-chosen texts. 
+The NLPlay platform is a Shiny application developed in R. The platform provides the user with multiple text mining tools. Within the platform the user is able to explore the semantic similarity between words as predicted by the neural network model, generate a word cloud based on a self-chosen text, perform topic modeling on a collection of documents, and perform sentiment analysis on self-chosen texts. 
 
 ## THE DAGW-MODEL
 The DAGW-model is a neural network model trained on the largest existing Danish corpus, The Danish Gigaword Corpus (DAGW), using the word2vec framework. 
@@ -14,7 +14,7 @@ The DAGW-model is a neural network model trained on the largest existing Danish 
 ## HOW TO REPRODUCE THE NLPLAY PLATFORM
 1. Download the DAGW-model here: https://drive.google.com/uc?export=download&id=1eHTn4vrtjLq6CLDu3WHHVBqN0u6VBB03
 
-2. Download the NLPlay folder that contains a setup-script and the shiny application.
+2. Download the NLPlay folder that contains a setup-script and the Shiny application.
 
 3. Place the DAGW-model file in the NLPlay folder where the Shiny application is located.
 
