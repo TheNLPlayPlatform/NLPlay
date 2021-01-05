@@ -7,9 +7,9 @@ This repository contains the scripts and other resources it takes to reproduce t
 
 ## THE NLPLAY PLATFORM
 The NLPlay platform is a Shiny application developed in R. The platform provides the user with multiple text mining tools. Within the platform the user is able to explore the semantic similarity between words as predicted by the neural network model, generate a word cloud based on a self-chosen text, perform topic modeling on a collection of documents, and perform sentiment analysis on self-chosen texts. 
-NLPlay is online! https://sofieditmer.shinyapps.io/NLPlay/
 
-NB! The DAGW-model functionalities are not available online. This is something we plan to change.
+###NLPlay is online! https://sofieditmer.shinyapps.io/NLPlay/
+###NB! The DAGW-model functionalities are not available online. This is something we plan to change.
 
 ## THE DAGW-MODEL
 The DAGW-model is a neural network model trained on the largest existing Danish corpus, The Danish Gigaword Corpus (DAGW), using the word2vec framework. 
